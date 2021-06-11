@@ -1,0 +1,13 @@
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\RackspaceTask.exe.config
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\RackspaceTask.exe
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\RackspaceTask.pdb
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.csprojAssemblyReference.cache
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.csproj.ResolveComReference.cache
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.csproj.CoreCompileInputs.cache
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.exe
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.pdb
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\EPPlus.dll
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\ExcelImporter.dll
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\ExcelLibrary.dll
+C:\Users\anhakim\Desktop\Task\RackspaceTask\bin\Debug\EPPlus.xml
+C:\Users\anhakim\Desktop\Task\RackspaceTask\obj\Debug\RackspaceTask.csproj.CopyComplete
